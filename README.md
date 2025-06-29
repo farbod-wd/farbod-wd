@@ -17,7 +17,7 @@
       JavaScript
     </td>
     <td align="center">
-      <img src="https://en.wikipedia.org/wiki/File:Bootstrap_logo.svg" width="70" height="70" />
+      <img src="[https://en.wikipedia.org/wiki/File:Bootstrap_logo.svg](https://getbootstrap.com/)" width="70" height="70" />
       <br />
       Bootstrap
     </td>
