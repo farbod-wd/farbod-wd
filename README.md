@@ -17,6 +17,11 @@
       JavaScript
     </td>
     <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bootstrap-logo.png" width="70" height="70" />
+      <br />
+      JavaScript
+    </td>
+    <td align="center">
       <img src="https://www.php.net/images/logos/php-logo.svg" width="70" height="70" />
       <br />
       PHP
